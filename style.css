@@ -1,0 +1,61 @@
+body {
+     background-color: #383C5E;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    height: 100vh;
+    font-family: chunk, serif;
+    color: white;
+}
+.header {
+  padding: 10px;
+  margin: 10px;
+
+}
+.twitter-link {
+
+}
+
+
+.decorative-quote {
+    font-family: chunk, serif;
+    font-size: 85px;
+    color: #BABFF4;
+}
+
+
+.quote {
+    font-size: 30px;
+}
+
+.author {
+    font-size: 15px;
+    font-family: helvetica, sans-serif;
+
+}
+
+
+.button {
+    border: none;
+    font-family: helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: #BABFF4;
+    padding: 5px;
+
+    background-color: #383C5E;
+}
+
+a {
+    color: #BABFF4;
+    text-decoration: none;
+}
+
+a:hover {
+
+    color: #F4F4BA;
+    text-decoration: none;
+}
